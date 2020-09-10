@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-661ca": {
+      "hosting": {
+        "login": [
+          "login-ng-661ca"
+        ]
+      }
+    }
+  }
+}
